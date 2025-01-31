@@ -151,24 +151,6 @@
                       <div class="link-underline"></div>
                     </div>
                   </a>
-                  <a href="/blog" data-w-id="c56b11bf-997a-3b38-9666-1fc82ed37c51" class="link-button w-inline-block">
-                    <div class="link-wrap">
-                      <div class="link-text">Blog</div>
-                      <div class="link-text">Blog</div>
-                    </div>
-                    <div class="link-underline-wrapper">
-                      <div class="link-underline"></div>
-                    </div>
-                  </a>
-                  <a href="/contact" data-w-id="c56b11bf-997a-3b38-9666-1fc82ed37c57" class="link-button w-inline-block">
-                    <div class="link-wrap">
-                      <div class="link-text">Contact</div>
-                      <div class="link-text">Contact</div>
-                    </div>
-                    <div class="link-underline-wrapper">
-                      <div class="link-underline"></div>
-                    </div>
-                  </a>
                   <a href="/template-info/licenses" data-w-id="c56b11bf-997a-3b38-9666-1fc82ed37c5d" class="link-button w-inline-block">
                     <div class="link-wrap">
                       <div class="link-text">Licenses</div>
