@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html data-wf-page="about-portfoilo" data-wf-site="about-portfoilo-code" lang="en" data-wf-locale="en">
   <head>
+    <!-- REMOVE WHEN ALL CHANGES DONE -->
+    <meta name='robots' content='noindex, nofollow' />
+    <!-- REMOVE WHEN ALL CHANGES DONE -->
     <meta charset="utf-8" />
     <title>Portiflow – Hadi</title>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
